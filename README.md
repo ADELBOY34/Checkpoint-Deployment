@@ -49,3 +49,7 @@ The project has an `npm start` script and reads configuration from environment v
 - [Configure a Node.js app for Azure App Service](https://learn.microsoft.com/azure/app-service/configure-language-nodejs)
 - [Configure App Service environment variables](https://learn.microsoft.com/azure/app-service/configure-common)
 - [Deploy to App Service with GitHub Actions](https://learn.microsoft.com/azure/app-service/deploy-github-actions)
+
+## Career checkpoint
+
+Read my reflection on career readiness and the skills I gained during the bootcamp in [career-checkpoint/README.md](career-checkpoint/README.md).
